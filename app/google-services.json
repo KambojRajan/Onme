@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1092241655138",
+    "project_id": "onme-8a471",
+    "storage_bucket": "onme-8a471.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092241655138:android:9d2d8b217f82a73b1dd83b",
+        "android_client_info": {
+          "package_name": "com.example.onme"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCj4rer2Cj_8gDoFD8b4AbcH8I6UVNU_VM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
